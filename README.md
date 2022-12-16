@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and ML
 - 🌱 I’m currently learning C . C is Fst as Fk
 - 💞️ No Collaburaction only me  
-- 📫 Contact me through insta -> kavin_2k4_unique
+- 📫 SMUKX_07
 - dont just talk , Just Show me the code  ~ LINUS TORVALDS 
 
 <!---
