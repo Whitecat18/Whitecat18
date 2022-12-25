@@ -7,6 +7,8 @@ A SHORT INTRO ABOUT ME !
 - LOVE TO LEARN THINGS AND DEVELOP INTO IT !
 - NOT A PRO NOR A BEGINNER >+_+<
 - DIVE DEEP INTO THE OCEANS ~~
+- 1ST YEAR STUDENT ;
+
 <!---
 Whitecat18/Whitecat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
