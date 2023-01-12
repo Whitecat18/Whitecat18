@@ -9,6 +9,9 @@ A SHORT INTRO ABOUT ME !
 - DIVE DEEP INTO THE OCEANS ~~
 - 1ST YEAR STUDENT ;
 - https://smukx.github.io
+- TEAM WHITEX 
+- https://whitecat18.github.io
+-
 
 <!---
 Whitecat18/Whitecat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
