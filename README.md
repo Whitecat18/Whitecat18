@@ -8,12 +8,6 @@ A SHORT INTRO ABOUT ME !
 - NOT A PRO NOR A BEGINNER >+_+<
 - DIVE DEEP INTO THE OCEANS ~~
 - 1ST YEAR STUDENT ;
-- https://smukx.github.io
-
-
-- WANNA LEARN MORE JOIN WHITEX @@
-- TEAM WHITEX 
-- https://whitecat18.github.io
 -
 
 <!---
