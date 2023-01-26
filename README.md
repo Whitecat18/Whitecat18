@@ -13,3 +13,11 @@ A SHORT INTRO ABOUT ME !
 Whitecat18/Whitecat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## UPCONING RELEASES !
+
+* WINDOWS ACTIVATOR WITH PATCHED VERSION 
+* APPCRASH NEW VERSION
+
+## STAY TUNED
