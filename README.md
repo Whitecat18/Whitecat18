@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 * WINDOWS ACTIVATOR WITH PATCHED VERSION 
 * WINDOWS MALWARE USING C PROGRAM 
-* APPCRASH NEW VERSION
+* APPCRASH NEW VERSION ✅
 
 
 
