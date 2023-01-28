@@ -1,6 +1,10 @@
 ## Whitecat18 (SMUKX)
 
-<p align="center"><image src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Banner.gif"></p>
+<p align="center">
+  <a href ="https://smukx.github.io"><image src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Banner.gif"</a>
+</p>
+                                                                                                                           
+                                                                                                                              
 
 ### A SHORT INTRO ABOUT ME ! 
 
