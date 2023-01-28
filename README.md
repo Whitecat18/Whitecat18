@@ -1,6 +1,6 @@
 ## Whitecat18 (SMUKX)
 
-<image src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/banner.jpg">
+<image src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Mainbanner.jpg">
 
 A SHORT INTRO ABOUT ME ! 
 
