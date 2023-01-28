@@ -1,5 +1,7 @@
 ## Whitecat18 (SMUKX)
 
+<image src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/banner.jpg">
+
 A SHORT INTRO ABOUT ME ! 
 
 - RANDOM CODER , IT SPECALIST , LINUX ENTHUSIASTIC AND RANDOM PENTESTER
