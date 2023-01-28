@@ -2,7 +2,7 @@
 
 <center><image src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Mainbanner.png"></center>
 
-A SHORT INTRO ABOUT ME ! 
+### A SHORT INTRO ABOUT ME ! 
 
 - RANDOM CODER , IT SPECALIST , LINUX ENTHUSIASTIC AND RANDOM PENTESTER
 - I LOVE TO SEEK INTO THINGS THAT ARE HIDDEN IN THE BOX ..XD
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## UPCONING RELEASES !
+### UPCONING RELEASES !
 
 * WINDOWS 11 ACTIVATOR INBUILT WITH WIN-GEN VERSION-3
 * WINDOWS ACTIVATOR WITH PATCHED VERSION ✅
