@@ -1,4 +1,6 @@
-## Whitecat18 (SMUKX)
+<p align="center">
+<h1>Whitecat18 --> Smukx #$</h1>
+</p>
 
 <p align="center">
   <a href ="https://smukx.github.io"><image src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Banner.gif"</a>
