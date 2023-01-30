@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <image src="https://i.gifer.com/origin/1d/1d41fb53fda1b530bf40223ea138405f_w200.gif">
   
   </p>
-  --->  
+  --->   
   
 ### UPCONING RELEASES !
 
