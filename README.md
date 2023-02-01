@@ -11,10 +11,8 @@
 ### A SHORT INTRO ABOUT ME ! 
 
 - RANDOM CODER , IT SPECALIST , LINUX ENTHUSIASTIC AND RANDOM PENTESTER
-- I LOVE TO SEEK INTO THINGS THAT ARE HIDDEN IN THE BOX ..XD
-- LOVE TO LEARN THINGS AND DEVELOP INTO IT !
 - NOT A PRO NOR A BEGINNER >+_+<
-- 1ST YEAR STUDENT ;)
+- 18YR GOI !
 
 <!---
 Whitecat18/Whitecat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
