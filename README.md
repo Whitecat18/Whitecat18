@@ -1,5 +1,5 @@
 <p align="center">
-<h1> --> Smukx #$</h1>
+<h1>Smukx #$</h1>
 </p>
 
 <p align="center">
