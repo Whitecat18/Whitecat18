@@ -15,7 +15,7 @@
 - 18YR BOI !
 
 - Languages Known :<br>
-      Powershell, Python , php , some C                              
+     Powershell, Python , php , some C                              
                            
 <!---
 Whitecat18/Whitecat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,9 +29,9 @@ You can click the Preview link to take a look at your changes.
   --->   
   
   <br>
-  
-  * Check My PS-Scripts !
-  
+ <h2>Upcoming Projects</h2>
+ - Powershell for hackers and pentesters 
+ - Building Kali Custom iamges . A Neat one Like Blackarch !  
 
 
  
