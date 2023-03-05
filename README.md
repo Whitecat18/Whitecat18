@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <br>
  <h2>Upcoming Projects</h2>
  - Powershell for hackers and pentesters <br>
- - Building Kali Custom iamges . A Neat one Like Blackarch !  
+ - Building Kali Custom images. A Neat and Cool one Like Blackarch !  
 
 
  
