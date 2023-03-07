@@ -14,9 +14,11 @@
 - NOT A PRO NOR A BEGINNER >+_+<
 - 18YR BOI !
 
-- Languages Known :<br>
-     Powershell, Python , php , some C                              
-                           
+- Languages Known : 
+ for i=0;i<4;i++
+  puts("python");
+  puts("HTML-CSS-JS");
+  puts("SOME C");
 <!---
 Whitecat18/Whitecat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
