@@ -10,17 +10,19 @@
 
 ### A SHORT INTRO ABOUT ME ! 
 
-- RANDOM CODER , IT SPECALIST , LINUX ENTHUSIASTIC AND RANDOM PENTESTER
+- RANDOM CODER , IT SPECALIST ,LINUX ENTHUSIASTIC AND RANDOM PENTESTER
+- AI GUY WHO BELIEVES CAN CHANGE THE WORLD !
 - NOT A PRO NOR A BEGINNER >+_+<
 - 18YR BOI !
 
 - Languages Known :
                                   <br>
  for (i=0;i<4;i++)<br>
-  &emsp;puts("python");<br>
-  &emsp;puts("HTML-CSS-JS");<br>
-  &emsp;puts("SOME C");<br>
-  &emsp;printf("Known :(")
+   &emsp;&emsp;puts("python");<br>
+   &emsp;&emsp;puts("HTML-CSS-JS");<br>
+   &emsp;&emsp;puts("SOME C");<br>
+   &emsp;&emsp;printf("Known :(")
+  
 <!---
 Whitecat18/Whitecat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
