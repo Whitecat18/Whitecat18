@@ -29,7 +29,7 @@
 
 ## Connect with Me
 
-📱 If you want to chat about security, Ai or anything else tech-related, hit me up at Twitter and Telegram . I'm always happy to talk shop with like-minded individuals. 💬
+📱 If you want to chat about security, Ai or anything else tech-related, hit me up at Twitter and Telegram . I'm always happy to talk talk with like-minded individuals. 💬
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Smukx07)
   
