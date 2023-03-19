@@ -8,31 +8,39 @@
                                                                                                                            
                                                                                                                               
 
-### A SHORT INTRO ABOUT ME ! 
+## 👨‍💻 Welcome to Smukx's Cyber Lair 👨‍💻
+👋 Greetings, fellow geeks! I'm smukx, a self-proclaimed cyber security ninja 🥷 and AI wizard 🧙‍♂️. If you're into hacking, security, and all things tech, you've come to the right place. 🤓
 
-- RANDOM CODER , IT SPECALIST ,LINUX ENTHUSIASTIC AND RANDOM PENTESTER
-- AI GUY WHO BELIEVES CAN CHANGE THE WORLD !
-- NOT A PRO NOR A BEGINNER >+_+<
-- 18YR BOI !
+  ## About Me
 
-- Languages Known :
-                                  <br>
- for (i=0;i<4;i++)<br>
-   &emsp;&emsp;puts("python");<br>
-   &emsp;&emsp;puts("HTML-CSS-JS");<br>
-   &emsp;&emsp;puts("SOME C");<br>
-   &emsp;&emsp;printf("Known :(")
+👾 I've been hacking since the age of 17, when I first discovered the thrill of breaking into computer systems. Since then, I've developed my skills and become a master of cyber security, with 1 years of experience in the field.
+
+🤖 When I'm not hacking, I'm diving into the world of AI and machine learning. I believe that these technologies hold immense potential for cyber security, and I'm always looking for ways to leverage them to stay one step ahead of the bad guys. 🤖
+
+## Projects
+
+💻 My GitHub repository is where I showcase some of my best work. Here are a few recent projects that I'm particularly proud of:
+
+- PROJECT 1 -> <a href="https://github.com/Whitecat18/Ps-script-for-Hackers-and-Pentesters" > Powershell for Hackers and Pentesters 👨‍💻<a/>
+- PROJECT 2 -> <a href="https://github.com/Whitecat18/windows-10-Activator" > Windows 10 Activator ⚙️ <a/>
+- PROJECT 3 -> <a href="https://github.com/Whitecat18/Add-Free-Youtube-Server" > Add Free Youtube Server ☘️ </a>
+
+🔓 All of my code is open-source, so feel free to take a peek and use it for your own nefarious purposes. 😈
+
+## Connect with Me
+
+📱 If you want to chat about hacking, security, or anything else tech-related, hit me up at [insert contact info]. I'm always happy to talk shop with like-minded individuals. 💬
   
-<!---
-Whitecat18/Whitecat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-  <!---
-<p align="center"><image src="https://i.gifer.com/origin/1d/1d41fb53fda1b530bf40223ea138405f_w200.gif">
-  <image src="https://i.gifer.com/origin/1d/1d41fb53fda1b530bf40223ea138405f_w200.gif">
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Smukx07)
   
-  </p>
-  --->   
+## Follow Me on GitHub
+
+👀 If you want to stay up-to-date with my latest hacks and code, be sure to follow me on GitHub. Who knows, maybe you'll learn a thing or two and become a master hacker like me one day. 😉 
+
+That's all for now. Stay geeky, my friends. 🤘
+  
+  
+  
   
   <br>
  <h2>Upcoming Projects</h2>
