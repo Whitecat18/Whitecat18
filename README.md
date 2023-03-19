@@ -1,21 +1,21 @@
 <p align="center">
-<h1>Smukx #$</h1>
+<h1>Smukx 🐲 </h1>
 </p>
 
 <p align="center">
-  <a href ="https://smukx.github.io"><image src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Banner.gif"</a>
-</p>
+  <a href ="https://smukx.github.io"><img src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Banner.gif"</a>
+    </p>
                                                                                                                            
                                                                                                                               
 
-## 👨‍💻 Welcome to Smukx's Cyber Lair 👨‍💻
+## 👨‍💻 Welcome to Smukx's tecky Lair 👨‍💻
 👋 Greetings, fellow geeks! I'm smukx, a self-proclaimed cyber security ninja 🥷 and AI wizard 🧙‍♂️. If you're into hacking, security, and all things tech, you've come to the right place. 🤓
 
   ## About Me
 
-👾 I've been hacking since the age of 17, when I first discovered the thrill of breaking into computer systems. Since then, I've developed my skills and become a master of cyber security, with 1 years of experience in the field.
+👾 I've been cracking since the age of 17, when I first discovered the thrill of breaking into computer systems. Since then, I've eaged to developed my skills and to become a master of Sec . 
 
-🤖 When I'm not hacking, I'm diving into the world of AI and machine learning. I believe that these technologies hold immense potential for cyber security, and I'm always looking for ways to leverage them to stay one step ahead of the bad guys. 🤖
+🤖 When I'm not pentesting , I'm diving into the world of AI and machine learning. I believe that these technologies hold immense potential for future and make my security research a lot more easier , and I'm always looking for ways to leverage them to stay one step ahead of the bad guys , becoz im more that that. 🤖
 
 ## Projects
 
@@ -29,13 +29,13 @@
 
 ## Connect with Me
 
-📱 If you want to chat about hacking, security, or anything else tech-related, hit me up at [insert contact info]. I'm always happy to talk shop with like-minded individuals. 💬
+📱 If you want to chat about pentesting , security, or anything else tech-related, hit me up at Twitter and Telegram . I'm always happy to talk shop with like-minded individuals. 💬
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Smukx07)
   
 ## Follow Me on GitHub
 
-👀 If you want to stay up-to-date with my latest hacks and code, be sure to follow me on GitHub. Who knows, maybe you'll learn a thing or two and become a master hacker like me one day. 😉 
+👀 If you want to stay up-to-date with my latest hacks and code, be sure to follow me on GitHub. Who knows, maybe you'll learn a thing or two and become a pro one day. 😉 
 
 That's all for now. Stay geeky, my friends. 🤘
   
@@ -43,7 +43,7 @@ That's all for now. Stay geeky, my friends. 🤘
   
   
   <br>
- <h2>Upcoming Projects</h2>
+ <h2>Upcoming Projects 💻 </h2>
  - Powershell scrips for hackers and pentesters <br>
  - Building Kali Custom images. A Neat and Cool one Like Blackarch !  
 
