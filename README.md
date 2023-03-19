@@ -8,7 +8,7 @@
                                                                                                                            
                                                                                                                               
 
-## 👨‍💻 Welcome to Smukx's tecky Lair 👨‍💻
+## 👨‍💻 Welcome to Smukx's Tecky Lair 👨‍💻
 👋 Greetings, fellow geeks! I'm smukx, a self-proclaimed cyber security ninja 🥷 and AI wizard 🧙‍♂️. If you're into hacking, security, and all things tech, you've come to the right place. 🤓
 
   ## About Me
