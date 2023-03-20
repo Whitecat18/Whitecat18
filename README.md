@@ -15,7 +15,7 @@
 
 👾 I've been cracking since the age of 17, when I first discovered the thrill of breaking into computer systems. its been just an year Since then, I've eaged to developed my skills to become a master of Sec . 
 
-🤖 When I'm not pentesting , I'm diving into the world of AI and machine learning. I believe that these technologies hold immense potential for future and make my security research a lot more easier , and I'm always looking for ways to leverage them to stay one step ahead of the bad guys , becoz im more that that. 🤖
+🤖 When I'm not pentesting , I'm diving into the world of AI and machine learning. I believe that these technologies hold immense potential for future and make my research a lot more easier , and I'm always looking for ways to leverage them to stay one step ahead of the bad guys , becoz im more that that. 🤖
 
 ## Projects
 
