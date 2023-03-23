@@ -9,7 +9,7 @@
                                                                                                                               
 
 ## 👨‍💻 Smukx's Lair 👨‍💻
-👋 Greetings, fellow geeks! I'm smukx, a self-proclaimed cyber ninja 🥷 and AI wizard 🧙‍♂️. If you're into Pentesting, security, Ai , and all things related to tech, you've come to the right place. 🤓
+👋 Greetings, fellow geeks! I'm an self-proclaimed programmer , pentester , hacker and Network Analyst ⚙️ 
 
   ## About Me
 
