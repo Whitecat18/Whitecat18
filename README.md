@@ -13,7 +13,7 @@
 
   ## About Me
 
-👾 Iam just a random teen who have discovered the thrill of breaking into computer systems. its been just an year Since then, I've eaged to developed my skills to go Futher 
+👾 I'm just a random teen who have discovered the thrill of breaking into computer systems. its been just an year Since then, I've eaged to developed my skills to go Futher 
 
 🤖 When I'm not pentesting , I'm diving into the world of AI and machine learning. I believe that these technologies hold immense potential for future and make my research a lot more easier , and I'm always looking for ways to leverage them to stay one step ahead of the bad guys , becoz im more that that. 🤖
 
