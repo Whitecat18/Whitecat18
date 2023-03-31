@@ -1,6 +1,5 @@
-<p align="center">
-<h1>Smukx 🐲 </h1>
-</p>
+
+# *Smukx 🐲*
 
 <p align="center">
   <a href ="https://smukx.github.io"><img src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Banner.gif"</a>
