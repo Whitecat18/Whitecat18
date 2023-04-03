@@ -38,7 +38,7 @@
 
 That's all for now. Stay geeky, my friends. 🤘
 
-<a href="https://github.com/Whitecat18"/><img src="https://github-readme-stats.vercel.app/api?username=Whitecat18&&show_icons=true&theme=radical">
+<a href="https://github.com/Whitecat18"/><img src="https://github-readme-stats.vercel.app/api?username=Whitecat18&&show_icons=true&theme=dark">
 
   
   <br>
