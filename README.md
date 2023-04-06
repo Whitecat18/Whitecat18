@@ -10,11 +10,9 @@
 ## 👨‍💻 Smukx's Lair 👨‍💻
 👋 Greetings, fellow geeks! I'm an self-proclaimed programmer , pentester , hacker and Network Analyst ⚙️ 
 
-  ## About Me
+## About Me
 
-👾 I'm just a random teen who have discovered the thrill of breaking into systems. its been just an year Since then, I've eaged to developed my skills to go Futher 
-
-🤖 When I'm not pentesting , I'm diving into the world of AI and machine learning. I believe that these technologies hold immense potential for future and make my research a lot more easier , and I'm always looking for ways to leverage them to stay one step ahead of the bad guys , becoz im more that that. 🤖
+👾 I'm just a random teen who have discovered the thrill of breaking into systems. its been just an year Since then, I've eaged to developed my skills to go Futher 👾
 
 ## Projects
 
@@ -28,8 +26,9 @@
 
 ## Connect with Me
 
-📱 If you want to chat about security, Ai or anything else tech-related, hit me up at Twitter and Telegram . I'm always happy to talk talk with like-minded individuals. 💬
+📱  Visit My article page , where i will be post often <a href="https://smukx.pagekite.me/" > Click Here </a> 💬<br><br> 
   
+ 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Smukx07)
   
 ## Follow Me on GitHub
