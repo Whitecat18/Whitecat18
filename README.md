@@ -26,7 +26,7 @@
 
 ## Connect with Me
 
-📱  Visit My article page , where i will be post often <a href="https://smukx.pagekite.me/" > Click Here </a> 💬<br><br> 
+📱  Visit My article page , where i will be post often <a href="https://smukx.github.io/" > Click Here </a> 💬<br><br> 
   
  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Smukx07)
