@@ -19,8 +19,8 @@
 💻 My GitHub repository is where I showcase some of my best work. Here are a few recent projects that I'm particularly proud of:
 
 - PROJECT 1 -> <a href="https://github.com/Whitecat18/Ps-script-for-Hackers-and-Pentesters" > Powershell for Hackers and Pentesters 👨‍💻<a/>
-- PROJECT 2 -> <a href="https://github.com/Whitecat18/windows-10-Activator" > Windows 10 Activator ⚙️ <a/>
-- PROJECT 3 -> <a href="https://github.com/Whitecat18/Add-Free-Youtube-Server" > Add Free Youtube Server ☘️ </a>
+- PROJECT 2 -> <a href="https://github.com/Whitecat18/javahexor" > Javahexor 📍 <a/>
+- PROJECT 3 -> <a href="https://github.com/Whitecat18/Windows-10-Activator" > Windows 10 Activation Tool ⚙️ </a>
 
 🔓 All of my code is open-source, so feel free to take a peek and use it for your own nefarious purposes. 😈
 
