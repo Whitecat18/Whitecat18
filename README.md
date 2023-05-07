@@ -37,17 +37,17 @@
 
 That's all for now. Stay geeky, my friends. 🤘
 
-<!--<a href="https://github.com/Whitecat18"/><img src="https://github-readme-stats.vercel.app/api?username=Whitecat18&&show_icons=true&theme=onedark">
+<!---<a href="https://github.com/Whitecat18"/><img src="https://github-readme-stats.vercel.app/api?username=Whitecat18&&show_icons=true&theme=onedark">
 -->
-![Smukx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whitecat18&show_icons=true&theme=black&hide=issues,contribs)
+![Smukx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whitecat18&show_icons=true&theme=radical&hide=issues,contribs)
 
 
   
   <br>
  <h2>Upcoming Projects 💻 </h2>
  - Powershell scrips for hackers and pentesters <br>
- - Building Kali Custom images. A Neat and Cool one Like Blackarch !  
-
+ - Payload Proceess
+ - ;)
 
  
 
