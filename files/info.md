@@ -1,7 +1,8 @@
-PROJECT CREATED AND MAINTAINED BY SMUKX . FOR ANY QUARRIES AND FEEBACK OR SUGGESSIONS, 
-MESSAGE ME VIA 
-TWITTER : https://twitter.com/Smukx07
+PROJECT CREATED AND MAINTAINED BY SMUKX .
 
+GITHUB : https://github.com/Whitecat18
+TWITTER : https://twitter.com/Smukx07
+Blog : https://smukx.github.io
 
                           .-"""-.
                          / .===. \
@@ -9,7 +10,7 @@ TWITTER : https://twitter.com/Smukx07
                          ( \___/ )
   ___________________ooo__\_____/________________________
  /                                                       \
-|    MAKING THE WORLD A BETTER ONE BY CREATING THINGS     |
+|    MAKING THE WORLD A BETTER ONE BY CHANGING THINGS     |
 |                                               ~SMUKX    |
  \_________________________________ooo___________________/
                           |  |  |
