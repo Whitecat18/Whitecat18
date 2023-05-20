@@ -1,3 +1,8 @@
+PROJECT CREATED AND MAINTAINED BY SMUKX . FOR ANY QUARRIES AND FEEBACK OR SUGGESSIONS, 
+MESSAGE ME VIA 
+TWITTER : https://twitter.com/Smukx07
+
+
                           .-"""-.
                          / .===. \
                          \/ 6 6 \/
