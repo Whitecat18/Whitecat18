@@ -47,9 +47,16 @@ That's all for now. Stay geeky, my friends. 🤘
   <br>
  <h2>Upcoming Projects 💻 </h2>
  - Powershell scrips for hackers and pentesters <br>
- - Payload Proceess
- - ;)
+ - Undetectable Payload For Windows Systems.
+  
+  ## Some Inspired Quotes 📜✍️:
+  
+  Talk is Cheap , Show me The Code ~ Linus Torvalds
+  
+  In the realm of 1s and 0s, where logic weaves a tapestry of algorithms, the code whisperers dwell, 
+  decrypting the symphony of bytes, sculpting worlds from the ether ~ Smukx
 
+  Amidst the lines of code, my essence thrives. No need for grand claims or boastful proclamations. Let my source code speak, revealing the intricate symphony of my being,       whispering my true prowess to those who seek. ~ Smukx 
  
 
 
