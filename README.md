@@ -32,6 +32,9 @@
  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Smukx07)
   
+  
+  ![](https://komarev.com/ghpvc/?username=Whitecat18&label=Profile+Viewers&color=red)
+  
 ## Follow Me on GitHub
 
 👀 If you want to stay up-to-date with my latest hacks and code, be sure to follow me on GitHub. Who knows, maybe you'll learn a thing or two and become a pro one day. 😉 
@@ -43,6 +46,8 @@ That's all for now. Stay geeky, my friends. 🤘
 ![Smukx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whitecat18&show_icons=true&theme=radical&hide=issues,contribs)
 
 
+
+ads
   
   <br>
  <h2>Upcoming Projects 💻 </h2>
