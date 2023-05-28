@@ -46,8 +46,6 @@ That's all for now. Stay geeky, my friends. 🤘
 ![Smukx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whitecat18&show_icons=true&theme=radical&hide=issues,contribs)
 
 
-
-ads
   
   <br>
  <h2>Upcoming Projects 💻 </h2>
