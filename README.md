@@ -8,7 +8,7 @@
                                                                                                                               
 
 ## 👨‍💻 Smukx's Lair 👨‍💻
-👋 Greetings, fellow geeks! I'm an self-proclaimed programmer , pentester , hacker , Network Analyst and Machine Leearner ⚙️ 
+👋 Greetings, fellow geeks! I'm an self-proclaimed programmer , pentester , hacker , Network Analyst and Machine Learner ⚙️ 
 
 ## About Me
 
