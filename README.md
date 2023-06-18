@@ -8,14 +8,15 @@
      
      
                                                                                                                               
-
+<!--
 ## 👨‍💻 Smukx's Lair 👨‍💻
 👋 Greetings, fellow geeks! I'm an self-proclaimed programmer , pentester , hacker , Network Analyst and Machine Learner ⚙️ 
-
+-->
 ## About Me
 
 👾 I'm just a random teen who have discovered the thrill of breaking into systems. its been just an year Since then, I've eaged to developed my skills to go Futher 👾
 
+<!--
 ## Projects
 
 💻 My GitHub repository is where I showcase some of my best work. Here are a few recent projects that I'm particularly proud of:
@@ -33,27 +34,27 @@
   
  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Smukx07)
-  
+ --> 
   
   ![](https://komarev.com/ghpvc/?username=Whitecat18&label=Profile+Viewers&color=red)
-  
+
+  <!--
 ## Follow Me on GitHub
 
 👀 If you want to stay up-to-date with my latest hacks and code, be sure to follow me on GitHub. Who knows, maybe you'll learn a thing or two and become a pro one day. 😉 
 
 That's all for now. Stay geeky, my friends. 🤘
-
-<!---<a href="https://github.com/Whitecat18"/><img src="https://github-readme-stats.vercel.app/api?username=Whitecat18&&show_icons=true&theme=onedark">
 -->
 ![Smukx's GitHub Status](https://github-readme-stats.vercel.app/api?username=Whitecat18&show_icons=true&theme=radical&hide=issues,contribs)
 
 
-  
+  <!--
   <br>
  <h2>Upcoming Projects 💻 </h2>
  - Powershell scrips for hackers and pentesters <br>
  - Undetectable Payload For Windows Systems.
-  
+
+  <!--
   ## Some Inspired Quotes 📜✍️:
   
   Talk is Cheap , Show me The Code ~ Linus Torvalds
@@ -62,6 +63,6 @@ That's all for now. Stay geeky, my friends. 🤘
   decrypting the symphony of bytes, sculpting worlds from the ether ~ Smukx
 
   Amidst the lines of code, my essence thrives. No need for grand claims or boastful proclamations. Let my source code speak, revealing the intricate symphony of my being,       whispering my true prowess to those who seek. ~ Smukx 
- 
+ -->
 
 
