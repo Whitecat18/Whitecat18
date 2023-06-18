@@ -14,7 +14,7 @@
 -->
 ## About Me
 
-👾 I'm just a random teen who have discovered the thrill of breaking into systems. its been just an year Since then, I've eaged to developed my skills to go Futher 👾
+👾 I'm just a guy who have discovered the thrill of breaking into systems.👾
 
 <!--
 ## Projects
