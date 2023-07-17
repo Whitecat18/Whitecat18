@@ -4,7 +4,7 @@
 <p align="center">
 <!-- <a href ="https://smukx.github.io"><img src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Banner.gif"</a> 
    --->
-    <a href ="https://smukx.github.io"><img src="https://cutewallpaper.org/28/dedsec-gif-wallpaper/magnus-animated-typeface-aescripts-aeplugins-aescriptscom.gif" height=400</a> 
+    <a href ="https://smukx.github.io"><img src="https://i.pinimg.com/originals/fa/59/6c/fa596cea24a101c9efbe209235c8b832.gif" height=400</a> 
   <!-- <a href="https://smukx.github.io"><img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif" >-->
       
 
