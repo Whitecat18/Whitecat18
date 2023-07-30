@@ -9,7 +9,6 @@
 👋 Greetings, fellow geeks! I'm an self-proclaimed programmer , pentester , hacker , Network Analyst and Machine Learner ⚙️ 
 -->
 
-
 <h2>SMukX !</h2>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Whitecat18&show_icons=true&theme=dark" width="380">
