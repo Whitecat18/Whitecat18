@@ -6,9 +6,8 @@
    --->
     <a href ="https://smukx.github.io"><img src="https://thumbs.gfycat.com/AmpleSecondhandCoqui-size_restricted.gif" height=300</a> 
   <!-- <a href="https://smukx.github.io"><img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif" >-->
-      
-
    </p>
+
 
      
                                                                                                                               
@@ -18,8 +17,9 @@
 -->
 ## About Me
 
-👾 I'm just a guy who have discovered the thrill of breaking into systems.👾
-
+<p><em>1+ year on Penetration Testing<br>
+  Learning in my spare time, pwning ⚡ at night! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 <!--
 ## Projects
 
