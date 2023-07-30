@@ -14,7 +14,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Whitecat18&show_icons=true&theme=dark" width="380">
 
-<p><em>1+ year on Penetration Testing<br>
+<p><em>1+ years penetration testing<br>
   Learning in my spare time, pwning ⚡ at night! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
