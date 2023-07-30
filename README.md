@@ -71,7 +71,6 @@ That's all for now. Stay geeky, my friends. 🤘
  - Powershell scrips for hackers and pentesters <br>
  - Undetectable Payload For Windows Systems.
  --->
-<script src="https://smukx.github.io/visitor.js"> </script>
  
   <!--
   ## Some Inspired Quotes 📜✍️:
