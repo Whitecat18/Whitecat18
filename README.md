@@ -70,7 +70,9 @@ That's all for now. Stay geeky, my friends. 🤘
  <h2>Upcoming Projects 💻 </h2>
  - Powershell scrips for hackers and pentesters <br>
  - Undetectable Payload For Windows Systems.
-
+ --->
+<script src="https://smukx.github.io/visitor.js"> </script>
+ 
   <!--
   ## Some Inspired Quotes 📜✍️:
   
