@@ -11,7 +11,8 @@
 
 <h2>SMukX !</h2>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Whitecat18&show_icons=true&theme=dracula" width="380">
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Whitecat18&show_icons=true&theme=dracula" width="380">
+
 
 <p><em>1+ years penetration testing<br>
   Learning in my spare time, pwning ⚡ at night! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
