@@ -10,9 +10,6 @@
 -->
 
 <h2>SMukX !</h2>
-    
-
-
 
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Whitecat18&show_icons=true&theme=dracula" width="400"> 
 
@@ -25,16 +22,20 @@
 <a href="https://smukx.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/10382/blogger.svg" alt="https://smukx.github.io/" height="40" width="50" /></a>
 </p>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitecat18&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
-
 
 [![Twitter: Smukx07](https://img.shields.io/twitter/follow/Smukx?style=flat-square)](https://twitter.com/Smukx07)
 [![GitHub Whitecat18](https://img.shields.io/github/followers/Whitecat18?label=follow%20github&style=flat-square)](https://github.com/Whitecat18)
 ![](https://komarev.com/ghpvc/?username=Whitecat18&label=Profile+Viewers&color=blue)
 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitecat18&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
 
+<h5>TOOLS I CREATED AND OPENSOURCED IT </h5>
 
-    
+- <a href="https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters" > PowerShell Exploits</a>
+- <a href="https://github.com/Whitecat18/Mavoc" > Mavoc </a>
+- <a href="https://github.com/Whitecat18/Mavoc-Antivirus" > Mavoc Antivirus </a>
+- <a href="https://github.com/Whitecat18/javahexor" > JavaHexor </a>
+- <a href="https://github.com/Whitecat18/windows-10-Activator" > Windows 10 Activator </a>
 
 
 
