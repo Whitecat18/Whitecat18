@@ -27,7 +27,7 @@
 [![GitHub Whitecat18](https://img.shields.io/github/followers/Whitecat18?label=follow%20github&style=flat-square)](https://github.com/Whitecat18)
 ![](https://komarev.com/ghpvc/?username=Whitecat18&label=Profile+Viewers&color=blue)
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitecat18&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitecat18&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
 
 
 <h5>TOOLS I CREATED AND OPENSOURCED IT </h5>
@@ -83,7 +83,7 @@ That's all for now. Stay geeky, my friends. 🤘
  - Undetectable Payload For Windows Systems.
  --->
  
-  <!--
+  <!-- 
   ## Some Inspired Quotes 📜✍️:
   
   Talk is Cheap , Show me The Code ~ Linus Torvalds
