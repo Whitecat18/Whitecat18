@@ -1,4 +1,4 @@
-<p align="center">
+
 <!-- <a href ="https://smukx.github.io"><img src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Banner.gif"</a> 
 
     <a href ="https://smukx.github.io"><img src="https://thumbs.gfycat.com/AmpleSecondhandCoqui-size_restricted.gif" height=300</a> ---->
