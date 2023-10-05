@@ -13,8 +13,8 @@
 
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Whitecat18&show_icons=true&theme=dracula" width="400"> 
 
-<p><em>1+ years penetration testing<br>
-  Learning in my spare time, pwning ⚡ at night! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> pentest with an different mindset<br>
+    19 , more on the way ...
 </em></p>
 
 <h4 align="left">Personal blog:</h4>
