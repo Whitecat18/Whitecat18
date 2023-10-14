@@ -19,7 +19,7 @@
 
 <h4 align="left">Personal blog:</h4>
 <p align="left">
-<a href="https://smukx.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/10382/blogger.svg" alt="https://smukx.github.io/" height="40" width="50" /></a>
+<a href="https://smukx.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/10382/blogger.svg" alt="https://smukx18.github.io/" height="40" width="50" /></a>
 </p>
 
 
