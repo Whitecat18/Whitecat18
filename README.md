@@ -36,7 +36,7 @@
 - <a href="https://github.com/Whitecat18/Mavoc" > Mavoc </a>
 - <a href="https://github.com/Whitecat18/Mavoc-Antivirus" > Mavoc Antivirus </a>
 - <a href="https://github.com/Whitecat18/javahexor" > JavaHexor </a>
-- <a href="https://github.com/Whitecat18/windows-10-Activator" > Windows 10 Activator </a>
+- <a href="https://github.com/Whitecat18/Windows-Activator.git" > Windows Activator</a>
 - <a href="https://github.com/Whitecat18/Add-Free-Youtube-Server.git" > Client YT Server</a>
 
 
