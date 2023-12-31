@@ -11,7 +11,7 @@
 
 <h2>SMukX</h2>
 
-<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Whitecat18&show_icons=true&theme=dracula" width="400"> 
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=smukx07&show_icons=true&theme=dracula" width="400"> 
 
 <p><em> Pentest with an different mindset<br>
     19 , more on the way ...
@@ -24,10 +24,12 @@
 
 
 [![Twitter: Smukx07](https://img.shields.io/twitter/follow/Smukx?style=flat-square)](https://twitter.com/Smukx07)
-[![GitHub Whitecat18](https://img.shields.io/github/followers/Whitecat18?label=follow%20github&style=flat-square)](https://github.com/Whitecat18)
-![Profile Views](https://komarev.com/ghpvc/?username=Whitecat18&label=Profile+Viewers&color=blue)
+[![GitHub Whitecat18](https://img.shields.io/github/followers/smukx07?label=follow%20github&style=flat-square)](https://github.com/smukx07)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitecat18&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
+<!---
+![Profile Views](https://komarev.com/ghpvc/?username=smukx07&label=Profile+Viewers&color=blue)
+---->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smukx07&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
 
 
 <h5>TOOLS I CREATED AND OPENSOURCED IT </h5>
@@ -38,8 +40,6 @@
 - <a href="https://github.com/Whitecat18/javahexor" > JavaHexor </a>
 - <a href="https://github.com/Whitecat18/Windows-Activator.git" > Windows Activator</a>
 - <a href="https://github.com/Whitecat18/Reqwest-Prober-Rust" > Reqwest-Prober</a>
-
-
 
 
 <!--
