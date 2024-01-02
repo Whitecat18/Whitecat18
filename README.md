@@ -26,9 +26,7 @@
 [![Twitter: Smukx07](https://img.shields.io/twitter/follow/Smukx?style=flat-square)](https://twitter.com/Smukx07)
 [![GitHub Whitecat18](https://img.shields.io/github/followers/smukx07?label=follow%20github&style=flat-square)](https://github.com/smukx07)
 
-<!---
-![Profile Views](https://komarev.com/ghpvc/?username=smukx07&label=Profile+Viewers&color=blue)
----->
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smukx07&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
 
 
