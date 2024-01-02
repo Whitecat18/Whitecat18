@@ -11,7 +11,7 @@
 
 <h2>SMukX</h2>
 
-<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=smukx07&show_icons=true&theme=dracula" width="400"> 
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Whitecat18&show_icons=true&theme=dracula" width="400"> 
 
 <p><em> Pentest with an different mindset<br>
     19 , more on the way ...
@@ -27,7 +27,7 @@
 [![GitHub Whitecat18](https://img.shields.io/github/followers/Whitecat18?label=follow%20github&style=flat-square)](https://github.com/Whitecat18)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smukx07&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitecat18&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
 
 
 <h5>TOOLS I CREATED AND OPENSOURCED IT </h5>
