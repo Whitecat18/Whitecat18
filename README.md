@@ -2,8 +2,7 @@
 <!-- <a href ="https://smukx.github.io"><img src="https://raw.githubusercontent.com/Whitecat18/Whitecat18/main/files/Banner.gif"</a> 
 
     <a href ="https://smukx.github.io"><img src="https://thumbs.gfycat.com/AmpleSecondhandCoqui-size_restricted.gif" height=300</a> ---->
-  <!-- <a href="https://smukx.github.io"><img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif" >-->
-   </p>                                                                                                                              
+  <!-- <a href="https://smukx.github.io"><img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif" >-->                                                                                                                 
 <!--
 ## 👨‍💻 Smukx's Lair 👨‍💻
 👋 Greetings, fellow geeks! I'm an self-proclaimed programmer , pentester , hacker , Network Analyst and Machine Learner ⚙️ 
