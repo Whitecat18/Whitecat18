@@ -23,7 +23,7 @@
 </p>
 
 
-[![Twitter: Smukx07](https://img.shields.io/twitter/follow/Smukx?style=flat-square)](https://twitter.com/Smukx07)
+[![Twitter: Smukx07](https://img.shields.io/twitter/follow/5mukx?style=flat-square)](https://twitter.com/5mukx)
 [![GitHub Whitecat18](https://img.shields.io/github/followers/Whitecat18?label=follow%20github&style=flat-square)](https://github.com/Whitecat18)
 ![Profile Viewers](https://komarev.com/ghpvc/?username=Whitecat18)
 
