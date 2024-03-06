@@ -30,14 +30,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitecat18&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
 
 
-<h5>TOOLS I CREATED AND OPENSOURCED IT </h5>
+<h5>WORKS I DID AND MADE IT OPENSOURCE</h5>
 
 - <a href="https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters" > PowerShell Exploits</a>
+- <a href="https://github.com/Whitecat18/Rust-for-Malware-Development.git" > Rust For Malware Development</a>
 - <a href="https://github.com/Whitecat18/Mavoc" > Mavoc C2</a>
 - <a href="https://github.com/Whitecat18/Mavoc-Antivirus" > Mavoc Antivirus </a>
 - <a href="https://github.com/Whitecat18/javahexor" > JavaHexor </a>
 - <a href="https://github.com/Whitecat18/Windows-Activator.git" > Windows Activator</a>
 - <a href="https://github.com/Whitecat18/Reqwest-Prober-Rust" > Reqwest-Prober</a>
-
-
 
