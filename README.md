@@ -12,8 +12,9 @@
 
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Whitecat18&show_icons=true&theme=dracula" width="400"> 
 
-<p><em> Pentest with an different mindset<br>
-    19, more on the way ...
+<p><em> Hey I'm 5mukx<br>
+     I'm a hobbyist Programmer and Pentester love to write <br>
+     Offensive Tools in Rust, C/C++.
 </em></p>
 
 <h4 align="left">Personal blog:</h4>
