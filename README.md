@@ -39,5 +39,5 @@
 - <a href="https://github.com/Whitecat18/Mavoc-Antivirus" > Mavoc Antivirus </a>
 - <a href="https://github.com/Whitecat18/javahexor" > JavaHexor </a>
 - <a href="https://github.com/Whitecat18/Windows-Activator.git" > Windows Activator</a>
-- <a href="https://github.com/Whitecat18/Reqwest-Prober-Rust" > Reqwest-Prober</a>
+- <a href="https://github.com/Whitecat18/Rusty-Red-Team-Tools/tree/main/Reqwest-Prober-Rust" > Reqwest-Prober</a>
 
