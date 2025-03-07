@@ -33,7 +33,7 @@
 
 <h5>WORKS I DID AND MADE IT OPENSOURCE</h5>
 
-- <a href="https://github.com/Whitecat18/Rust-for-Malware-Development.git" > Rust For Malware Development</a>
+- <a href="https://github.com/Whitecat18/Rust-for-Malware-Development.git" > Rust For Malware Development [Will be available within 10 to 15 days]</a>
 - <a href="https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters" > PowerShell Scripts & Exploits</a>
 - <a href="https://github.com/Whitecat18/Mavoc" > Mavoc C2 [Beta]</a>
 - <a href="https://github.com/Whitecat18/Mavoc-Antivirus" > Mavoc Antivirus </a>
