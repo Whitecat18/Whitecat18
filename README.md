@@ -28,12 +28,12 @@
 [![GitHub Whitecat18](https://img.shields.io/github/followers/Whitecat18?label=follow%20github&style=flat-square)](https://github.com/Whitecat18)
 ![Profile Viewers](https://komarev.com/ghpvc/?username=Whitecat18)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitecat18&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitecat18&layout=compact&show_icons=true&theme=dracula" width="280" /> 
 
 
 <h5>WORKS I DID AND MADE IT OPENSOURCE</h5>
 
-- <a href="https://github.com/Whitecat18/Rust-for-Malware-Development.git" > Rust For Malware Development [Will be available within 10 to 15 days]</a>
+- <a href="https://github.com/Whitecat18/Rust-for-Malware-Development.git" > Rust For Malware Development</a>
 - <a href="https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters" > PowerShell Scripts & Exploits</a>
 - <a href="https://github.com/Whitecat18/Mavoc" > Mavoc C2 [Beta]</a>
 - <a href="https://github.com/Whitecat18/Mavoc-Antivirus" > Mavoc Antivirus </a>
